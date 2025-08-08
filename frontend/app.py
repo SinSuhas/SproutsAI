@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Configure the API endpoint URL, defaulting to localhost if not specified in .env
-API_URL = os.getenv("API_URL", "http://3.129.90.172:8000")
+API_URL = os.getenv("API_URL", "http://3.128.28.6:8000")
 
 def main():
     """
@@ -101,4 +101,5 @@ def main():
 
 if __name__ == "__main__":
     
+
     main()
