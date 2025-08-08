@@ -1,0 +1,39 @@
+Job Description:
+
+ Location:
+ Hybrid (San Francisco, CA) – Flexible arrangement based on candidate preference; onsite work is available if preferred.
+
+
+🧩 Responsibilities
+
+Design, build, and maintain complex AI-driven software systems.
+Develop and optimize machine learning and NLP pipelines, with a focus on scalability and production readiness.
+Collaborate with team members to define requirements, perform software design, conduct peer reviews, and document solutions.
+Implement best practices including version control, unit testing, code reviews, and agile development cycles.
+Design and analyze experiments to validate model performance and enhance AI workflows.
+
+
+🛠️ Required Skills & Qualifications
+
+Strong Python skills, particularly for machine learning and NLP projects
+Good SQL skills for querying and analyzing data
+Basic C# skills – ability to read and understand existing .NET / .NET Core code and make minor adjustments if needed
+Experience working with Large Language Models (LLMs) or modern AI tools (e.g., ChatGPT, Cursor, Copilot)
+Understanding of API and Microservices concepts
+Ability to work independently and thrive in a small, agile team
+
+
+🎓 Preferred Experience
+
+Bachelor’s degree in Computer Science, Engineering, or a related field
+5+ years of experience in software engineering, AI development, or ML engineering
+Cloud experience (Azure or AWS) is a plus
+Familiarity with ML frameworks such as TensorFlow, PyTorch, or Scikit-learn
+Experience with ETL processes and end-to-end ML pipeline development
+Exposure to big data tools like Databricks, Snowflake, Spark, or Solr is beneficial
+
+
+✅ Additional Notes
+
+Flexible hybrid or onsite role, depending on candidate preference.
+Contract-to-hire with simple agreement amendment upon conversion.
