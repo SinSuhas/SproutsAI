@@ -4,12 +4,6 @@ Streamlit URL : https://recommendcandidate.streamlit.app/
 
 # AI-Powered Resume Screening System
 
-**Note:**
-1. **Huggingface Token required for AI Summary generation**
-2. Backend is deployed on AWS EC2 t2.micro instance and the computation is very slow. Recommend running the app on local
-3. Sample resumes and sample Job Description have been provided in data/temp folder. 
-
-
 ## Overview
 
 This system provides an automated solution for screening and ranking job candidates based on resume content and job descriptions. It uses advanced natural language processing and machine learning techniques to analyze resumes, calculate semantic similarity with job requirements, and generate AI-powered summaries for each candidate.
@@ -140,6 +134,10 @@ HF_API_KEY=<HuggingFace API key>
 
 This system provides a foundation for AI-powered recruitment screening while maintaining flexibility for future enhancements and customizations.
 
+**Note:**
+1. Backend is deployed on AWS EC2 t3.small instance.
+2. Sample resumes and sample Job Description have been provided in data/temp folder.
+
 ## Setup on local
 
 1. Create virtual environment:
@@ -155,3 +153,4 @@ uvicorn main:app --reload
 cd frontend
 
 streamlit run app.py
+
