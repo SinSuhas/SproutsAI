@@ -7,6 +7,7 @@ Streamlit URL : https://recommendcandidate.streamlit.app/
 **Note:**
 1. **Huggingface Token required for AI Summary generation**
 2. Backend is deployed on AWS EC2 t2.micro instance and the computation is very slow. Recommend running the app on local
+3. Sample resumes and sample Job Description have been provided in data/temp folder. 
 
 
 ## Overview
@@ -152,4 +153,5 @@ uvicorn main:app --reload
 
 3. Start the frontend
 cd frontend
+
 streamlit run app.py
