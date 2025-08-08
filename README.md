@@ -2,6 +2,12 @@
 
 Streamlit URL : https://recommendcandidate.streamlit.app/
 
+## How to use the app:
+1. Type in or copy paste the job description.
+2. Upload 1 to 10 resumes
+3. Click on "Process Resumes" button
+4. Wait for few seconds for the results to appear
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # AI-Powered Resume Screening System
 
 ## Overview
@@ -153,4 +159,5 @@ uvicorn main:app --reload
 cd frontend
 
 streamlit run app.py
+
 
