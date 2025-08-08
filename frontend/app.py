@@ -25,6 +25,7 @@ def main():
     #center the title and description of the app
 
     st.set_page_config(page_title="Candidate Recommender", layout="wide")
+    st._config.set_option('theme.base', 'dark')
     st.markdown("""
         <style>
             div[data-testid="stMarkdownContainer"] > div:first-child h1 {
@@ -103,4 +104,5 @@ if __name__ == "__main__":
     
 
     main()
+
 
