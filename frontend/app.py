@@ -26,6 +26,7 @@ def main():
 
     st.set_page_config(page_title="Candidate Recommender", layout="wide")
     st._config.set_option('theme.base', 'dark')
+    st._config.set_option('theme.backgroundColor', '#000000')
     st.markdown("""
         <style>
             div[data-testid="stMarkdownContainer"] > div:first-child h1 {
@@ -104,5 +105,6 @@ if __name__ == "__main__":
     
 
     main()
+
 
 
